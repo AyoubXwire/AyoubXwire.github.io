@@ -50,3 +50,23 @@ body {
     height: 30px;
     font-weight: bold;
 }
+
+#fullname {
+    color: #40bfff;
+}
+
+.fa-facebook {
+    color: #3b5998 ;
+}
+
+.fa-linkedin {
+    color: #0077B5;
+}
+
+.fa-github-square {
+    color: #333;
+}
+
+.fa-envelope-square {
+    color: crimson;
+}
