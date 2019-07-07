@@ -55,6 +55,12 @@ body {
     color: #40bfff;
 }
 
+.project {
+    height: 250px;
+    width: 250px;
+    border: #333 2px solid;
+}
+
 .fa-facebook {
     color: #3b5998 ;
 }
