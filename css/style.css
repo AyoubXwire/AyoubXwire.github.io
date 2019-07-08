@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-    border-bottom: #008ed6 3px solid;
+    border-bottom: #77ACA2 3px solid;
 }
 
 #header-section {
@@ -49,10 +49,6 @@ body {
 .progress {
     height: 30px;
     font-weight: bold;
-}
-
-#fullname {
-    color: #40bfff;
 }
 
 .project {
