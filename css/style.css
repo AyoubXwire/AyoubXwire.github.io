@@ -12,7 +12,7 @@ body {
     border-bottom: #77ACA2 3px solid;
 }
 
-#header-section {
+#header {
     background-image: url(../img/header.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,7 +20,7 @@ body {
     min-height: 100vh;
 }
 
-#header-section .dark-overlay {
+#header .dark-overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -29,22 +29,22 @@ body {
     background-color: #000000bb;
 }
 
-#header-section .header-inner {
+#header .header-inner {
     padding-top: 35vh;
 }
 
-#header-section .card-form {
+#header .card-form {
     opacity: .8;
 }
 
-#header-section .fas {
+#header .fas {
     color: #008ed6;
     background-color: #ffffff;
     padding: 5px;
     border-radius: 5px;
 }
 
-#explore-section .fas {
+#explore .fas {
     background-color: #333;
     color: #fff;
     padding: 5px;
