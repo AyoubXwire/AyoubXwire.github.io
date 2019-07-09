@@ -77,3 +77,12 @@ body {
 .fa-envelope-square {
     color: crimson;
 }
+
+.contact-icon:hover {
+    transition: .5s;
+    transform: scale(1.2);
+}
+
+.nounderline {
+    text-decoration: none !important;
+}
