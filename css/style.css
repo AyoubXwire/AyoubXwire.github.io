@@ -78,8 +78,12 @@ body {
     color: crimson;
 }
 
+.contact-icon {
+    transition: .4s;
+}
+
 .contact-icon:hover {
-    transition: .5s;
+    transition: .4s;
     transform: scale(1.2);
 }
 
