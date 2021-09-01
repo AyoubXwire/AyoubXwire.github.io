@@ -8,6 +8,14 @@ body {
     color: #fff;
 }
 
+body #magicPointer {
+    background: #77ACA2;
+}
+
+body #magicMouseCursor {
+    border: 2px solid rgb(98, 124, 129);
+}
+
 .navbar {
     border-bottom: #77ACA2 3px solid;
 }
