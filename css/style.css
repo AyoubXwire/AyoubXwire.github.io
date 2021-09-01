@@ -60,6 +60,7 @@ body {
     height: 250px;
     width: 250px;
     border: #333 2px solid;
+    object-fit: cover;
 }
 
 .fa-facebook {
